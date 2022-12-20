@@ -1,0 +1,58 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 40%;
+  min-width: 350px;
+  margin: 0 auto;
+}
+
+.btn {
+  font-size: 1em;
+  background-color: #e5e7eb;
+  border-radius: 0.5em;
+  padding: 10px;
+  margin: 0 10px;
+  transition: all 0.2s ease;
+}
+
+.break {
+  margin-top: 30px;
+}
+
+.intro {
+  margin-bottom: 50px;
+}
+
+.output {
+  border: 1px solid;
+  margin: 20px auto;
+  width: 70%;
+  padding: 20px;
+}
+
+.rating {
+  font-size: smaller;
+  margin-top: 10px;
+}
+
+.title {
+  font-size: larger;
+  font-weight: bold;
+}
+
+h1 {
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 0.5em;
+}
+
+.btn:hover {
+  background-color: pink;
+}
+
+.photo {
+  display: inline-block;
+  width: 80%;
+  margin-top: 10px;
+  border-radius: 0.5em;
+}
