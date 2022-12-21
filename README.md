@@ -3,7 +3,9 @@ This app suggests some of the best movies I have seen and want to share it with 
 Tech Uses:
 
   1.JavaScript(ReactJS)
+  
   2.HTML
+  
   3.CSS
  
  Below is a sample of its GUI
